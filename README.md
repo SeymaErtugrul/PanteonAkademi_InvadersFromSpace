@@ -1,2 +1,2 @@
 # PanteonAkademi_InvadersFromSpace
-Panteon AKademi eğitimlerinde yapılmıştır
+Panteon Akademi eğitimlerinde yapılmıştır
